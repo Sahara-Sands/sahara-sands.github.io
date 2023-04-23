@@ -5,7 +5,7 @@ description: Jekyll Serif contains content types for a typical business website.
 intro_image: "images/illustrations/home_img_2.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Discover the magic of African legends.
