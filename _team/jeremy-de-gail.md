@@ -1,9 +1,9 @@
 ---
-title: "Peter Van Eijk"
+title: "Jeremy de Gail"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+image: "images/team/jeremy-de-gail.jpg"
+jobtitle: "Founder"
+linkedinurl: "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-de-gail-a323948b/"
 promoted: true
 weight: 1
 ---

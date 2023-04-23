@@ -1,13 +1,13 @@
 main:
-  - name: "About"
-    url: "/about/"
+  - name: "Home"
+    url: "/"
     weight: 2
-  - name: "Cards"
-    url: "/cards/"
-    weight: 3
-  - name: "Team"
-    url: "/team/"
-    weight: 4
+  # - name: "Cards"
+  #   url: "/cards/"
+  #   weight: 3
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
