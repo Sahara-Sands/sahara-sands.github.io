@@ -8,6 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As a child, I was always fascinated by the mystique of African cultures. My mother used to sell West African art in Europe, but compared to European culture, accessing knowledge about Africa was much harder. That's why I've spent more than 10 years on a mission to democratize African cultures through various mediums. Sahara Sands is the result of years of experimentation, trial, and error. This project has been a lot of fun for me, and I hope to share that same sense of enjoyment with others.
