@@ -28,6 +28,11 @@ carousels:
     - image: '0019_gold_mine_print_size-min.png'
     - image: '0020_archery_camp_print_size-min.png'
     - image: '0021_dirt_road_print_size-min.png'
+    - image: '0022_small_tower_print_size-min.png'
+    - image: '0023_akom_church_print_size-min.png'
+    - image: '0024_Abayie_Darko_print_size-min.png'
+    - image: '0025_efum_mensah_print_size-min.png'
+    - image: '0026_drying_hibiscus_print_size-min.png'
 ---
 
 # Season 1 | The Akan
