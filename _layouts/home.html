@@ -12,9 +12,24 @@ bodyClass: "page-home"
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+        <img alt="{{ page.title }}"
+          class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}"
+          src="{{ page.intro_image | relURL }}" />
       </div>
       {% endif %}
+    </div>
+  </div>
+</div>
+
+
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <h1 class="title">The world of Sahara Sands</h1>
+    <div style="display: flex; justify-content: center;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1V7n_h6EzoI?si=u9kdvloW084brLGa"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
     </div>
   </div>
 </div>
@@ -30,7 +45,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "cards" | relative_url }}">View More Cards</a>
+        <a class="button button-primary" href="{{ " cards" | relative_url }}">View More Cards</a>
       </div>
     </div>
   </div>
@@ -46,7 +61,8 @@ bodyClass: "page-home"
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
           <h2 class="feature-title">{{ feature.title }}</h2>
           <div class="feature-content">{{ feature.description }}</div>
